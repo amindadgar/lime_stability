@@ -17,8 +17,8 @@ setup(
         'lime',
         'statsmodels',
         'statistics',
-        'numpy',
-        'scikit-learn>=0.18'
+        'numpy==1.26.4',
+        'scikit-learn==1.1.3'
     ],
     license='BSD',
     zip_safe=False)
